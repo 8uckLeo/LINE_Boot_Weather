@@ -13,7 +13,6 @@ requests-file
 requests-oauthlib
 twstock
 lxml
-time
 statistics
 linebot.models
 re
